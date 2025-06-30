@@ -4,7 +4,7 @@ Graduação Turma 1 Noturno
 Disciplina: Introdução à Ciencia da Computação
 Prof. Lucas Debatin, MSc.
 Trabalho 4
-Alunos: Arthur Sá, Ruan Gomes, ..., ..., ..., ...
+Alunos: Arthur Sá, Ruan Gomes Pacheco, Erick Luiz, Igor Moreira, Rafael Fernandes
 */
 #include <stdio.h>
 #include <string.h>
